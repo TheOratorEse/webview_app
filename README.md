@@ -5,7 +5,7 @@
 
 ##  How to run this project 
  Use the following command on your terminal
-- ## "Cd webview_app"  
+- ## "cd webview_app"  
 - navigate into the project directory
 
 - ## "flutter run" 
